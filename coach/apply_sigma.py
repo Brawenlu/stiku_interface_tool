@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
+#西格玛报名情况
 import sys
 import os
 curPath = os.path.abspath(os.path.dirname(__file__))
@@ -12,6 +13,7 @@ from util.account_mgr import AccountMgr
 from util.http_util import HttpConnectMgr
 from util.domain_mgr import DomainMgr
 from service.student_service import StudentService
+
 
 def apply_sigma(account):
     student_service = StudentService()
