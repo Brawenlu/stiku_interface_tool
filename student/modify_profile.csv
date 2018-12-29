@@ -1,0 +1,2 @@
+account,password,name(不填表示不修改),sex（不填表示不修改）,phone,qq,study_level,parent_name,parent_phone,target_score,motto,class_id,s_type(1:文科 2:理科)
+709S201402001,123456,,,,,,,,,,6906,2

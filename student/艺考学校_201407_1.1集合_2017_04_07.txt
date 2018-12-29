@@ -1,0 +1,11 @@
+account=[610S201407001],name=[邢德福],level=[3],detail=[8, 8, 8, 8, 8, 8, 8, 8, 9, 9],choose_list=[]
+account=[610S201407002],name=[周腾春],level=[3],detail=[8, 8, 8, 8, 8, 8, 8, 8, 7, 13],choose_list=[]
+account=[610S201407003],name=[陈景强],level=[3],detail=[8, 8, 8, 0, 0, 8, 8, 0, 11, 8],choose_list=[]
+account=[610S201407004],name=[朱亚],level=[3],detail=[8, 8, 8, 8, 0, 8, 8, 8, 9, 1],choose_list=[]
+account=[610S201407005],name=[杨标],level=[3],detail=[8, 8, 8, 8, 0, 8, 8, 0, 8, 12],choose_list=[]
+account=[610S201407006],name=[徐国飚],level=[3],detail=[8, 8, 8, 8, 8, 8, 8, 8, 10, 9],choose_list=[]
+account=[610S201407007],name=[彭涛],level=[3],detail=[8, 8, 0, 8, 0, 8, 0, 8, 10, 12],choose_list=[]
+account=[610S201407008],name=[李正文],level=[3],detail=[8, 8, 8, 8, 0, 0, 0, 0, 11, 13],choose_list=[]
+account=[610S201407009],name=[赵学良],level=[3],detail=[8, 8, 8, 8, 8, 8, 8, 8, 1, 14],choose_list=[]
+school=[艺考学校],class=[201407],total_feedback=[9],effective_num=[9]
+

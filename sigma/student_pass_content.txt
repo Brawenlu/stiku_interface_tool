@@ -1,0 +1,36 @@
+{
+"type":"success",
+"msg":"获取关卡内容成功！",
+"data":
+	{
+	"finishStudentCount":0,
+	"avgTimesToPass":0,
+	"name":"1.1 空间几何体的结构",
+	"exampleProblem":[],
+	"exerciseProblem":
+	[
+		{"isGrasp":-1,
+		"answerPathArray":
+			["1548542_t20160506134938_xz_5g_1_(1).jpg"],
+		"pathArray":
+			["1548542_t20160506134938_xz_5p_1_(1).jpg"],
+		"selectAnswer":"",
+		"indexNo":1,
+		"isCollect":0,
+		"studentId":326477,
+		"sequence":1548542,
+		"homeworkId":19620,
+		"homeworkProblemId":93649,
+		"selectStandardAnswer":"D",
+		"replyStatus":-1,
+		"resultPathString":[],
+		"problemId":73417,
+		"problemType":0,
+		"doProblemStudentCount":2,
+		"doProblemRightRate":"100%",
+		"doProblemAverageTime":1,
+		"pointsName":"简单组合体的结构特征",
+		"scoreSegment":1
+		},
+	]
+		{"isGrasp":-1,"answerPathArray":["gradeone/4/hngyg04001/a/1d_xz_0_4c.jpg"],"pathArray":["gradeone/4/hngyg04001/a/1d_xz_0_4p.jpg"],"selectAnswer":"","indexNo":2,"isCollect":0,"studentId":326477,"sequence":3804830,"homeworkId":19620,"homeworkProblemId":93650,"selectStandardAnswer":"C","replyStatus":-1,"resultPathString":[],"problemId":8069,"problemType":0,"doProblemStudentCount":9,"doProblemRightRate":"55.56%","doProblemAverageTime":0,"pointsName":"旋转体（圆柱、圆锥、圆台、球）的结构特征","videoPath":"5e727df769","scoreSegment":0},{"isGrasp":-1,"answerPathArray":["1677480_t20150518171046_xz_7g_1_(1).jpg"],"pathArray":
