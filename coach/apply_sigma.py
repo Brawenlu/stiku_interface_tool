@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-#西格玛报名情况
+#西格玛报名情况2
 import sys
 import os
 curPath = os.path.abspath(os.path.dirname(__file__))
